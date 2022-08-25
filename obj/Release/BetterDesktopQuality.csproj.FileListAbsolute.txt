@@ -1,0 +1,8 @@
+C:\Users\gabry\Desktop\BetterDesktopQuality\BetterDesktopQuality\bin\Release\BetterDesktopQuality.exe.config
+C:\Users\gabry\Desktop\BetterDesktopQuality\BetterDesktopQuality\bin\Release\BetterDesktopQuality.exe
+C:\Users\gabry\Desktop\BetterDesktopQuality\BetterDesktopQuality\bin\Release\BetterDesktopQuality.pdb
+C:\Users\gabry\Desktop\BetterDesktopQuality\BetterDesktopQuality\obj\Release\BetterDesktopQuality.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\BetterDesktopQuality\BetterDesktopQuality\obj\Release\BetterDesktopQuality.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabry\Desktop\BetterDesktopQuality\BetterDesktopQuality\obj\Release\BetterDesktopQuality.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\BetterDesktopQuality\BetterDesktopQuality\obj\Release\BetterDesktopQuality.exe
+C:\Users\gabry\Desktop\BetterDesktopQuality\BetterDesktopQuality\obj\Release\BetterDesktopQuality.pdb
